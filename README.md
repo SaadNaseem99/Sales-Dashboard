@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Data is imaginary does not pertain to any business.
+Dummy Data is used for data analytics purpose.
